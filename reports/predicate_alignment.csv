@@ -1,0 +1,24 @@
+private_predicate,wikidata_property,wikidata_label,all_candidates
+announce,P6949,announcement date,"[('P6949', 'announcement date'), ('P9731', 'announced at')]"
+was,P7943,The Washington Post contributor ID,"[('P7943', 'The Washington Post contributor ID'), ('P9460', 'Washington Rare Plant Field Guide ID (PDF version)'), ('P9408', 'Washington Flora Checklist ID'), ('P9755', 'Scenic Washington scenic drives and road trips ID'), ('P9330', 'Washington Place Names ID')]"
+is,P360,is a list of,"[('P360', 'is a list of'), ('P498', 'ISO 4217 code'), ('P506', 'ISO 15924 alpha-4 code'), ('P507', 'Swedish county code'), ('P503', 'ISO standard')]"
+include,,,[]
+are,P408,software engine,"[('P408', 'software engine'), ('P397', 'parent astronomical body'), ('P47', 'shares border with'), ('P348', 'software version identifier'), ('P3018', 'located in protected area')]"
+report,P561,NATO reporting name,"[('P561', 'NATO reporting name'), ('P3147', 'United States Reports ID'), ('P5579', 'flight-report.com airline ID'), ('P6339', 'reports periodicity'), ('P6577', 'Cour des comptes report ID')]"
+say,P4659,Musée d'Orsay artwork ID,"[('P4659', ""Musée d'Orsay artwork ID""), ('P2268', ""Musée d'Orsay artist or personality ID""), ('P9470', 'HistoryLink essay number'), ('P12979', 'Say Who ID'), ('P12325', 'Sayed Ganj Balochi Glossary ID')]"
+file,P368,Sandbox-CommonsMediaFile,"[('P368', 'Sandbox-CommonsMediaFile'), ('P539', 'Museofile ID'), ('P4152', 'file format identification pattern'), ('P3096', 'KML file'), ('P2038', 'ResearchGate profile ID')]"
+become,,,[]
+begin,,,[]
+release,P406,soundtrack release,"[('P406', 'soundtrack release'), ('P436', 'MusicBrainz release group ID'), ('P5171', 'Rockipedia release ID'), ('P2206', 'Discogs release ID'), ('P5813', 'MusicBrainz release ID')]"
+sign,P14,traffic sign,"[('P14', 'traffic sign'), ('P229', 'IATA airline designator'), ('P230', 'ICAO airline designator'), ('P432', 'callsign of airline'), ('P287', 'designed by')]"
+launch,P619,UTC date of spacecraft launch,"[('P619', 'UTC date of spacecraft launch'), ('P375', 'space launch vehicle'), ('P1079', 'launch contractor'), ('P3802', 'Launchpad.net project ID'), ('P7809', 'LaunchBox Games Database platform ID')]"
+move,P756,removed feature,"[('P756', 'removed feature'), ('P135', 'movement'), ('P5335', 'Or Movement settlement ID'), ('P5336', 'Or Movement regional council ID'), ('P6939', 'moved by')]"
+"
+
+
+",P360,is a list of,"[('P360', 'is a list of'), ('P610', 'highest point'), ('P179', 'part of the series'), ('P493', 'ICD-9 ID'), ('P494', 'ICD-10 ID')]"
+agree,,,[]
+has,P527,has part(s),"[('P527', 'has part(s)'), ('P515', 'phase of matter'), ('P366', 'has use'), ('P418', 'has seal, badge, or sigil'), ('P199', 'has organizational division')]"
+acquire,,,[]
+use,P366,has use,"[('P366', 'has use'), ('P612', 'mother house'), ('P26', 'spouse'), ('P509', 'cause of death'), ('P670', 'house number')]"
+make,P3047,playmakerstats.com player ID,"[('P3047', 'playmakerstats.com player ID'), ('P2010', 'Exif make'), ('P4805', 'make-up artist'), ('P6315', 'PlaymakerStats.com referee ID'), ('P6316', 'PlaymakerStats.com coach ID')]"

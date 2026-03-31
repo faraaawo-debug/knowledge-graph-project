@@ -1,0 +1,32 @@
+# ============================================================
+# Requirements — Knowledge Graph Project
+# Python 3.9+
+# ============================================================
+
+# Web crawling & HTTP
+httpx==0.28.1
+requests==2.32.5
+
+# Data processing
+pandas
+numpy==1.26.4
+
+# NLP & NER (Lab 1)
+spacy==3.7.4
+
+# RDF & Knowledge Graph (Lab 2)
+rdflib
+SPARQLWrapper
+
+# OWL Reasoning (Lab 3 Part 1)
+owlready2
+
+# Knowledge Graph Embedding (Lab 3 Part 2)
+pykeen==1.10.1
+class-resolver==0.3.10
+torch
+
+# Embedding analysis & visualization
+scikit-learn
+matplotlib
+tqdm

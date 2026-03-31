@@ -1,0 +1,54 @@
+{
+  "meilleur_modele": "TransE",
+  "config": {
+    "num_epochs": 100,
+    "embedding_dim": 100,
+    "learning_rate": 0.01,
+    "batch_size": 512,
+    "random_seed": 42
+  },
+  "evaluation": {
+    "TransE": {
+      "Modèle": "TransE",
+      "MRR": 0,
+      "Hits@1": 0,
+      "Hits@3": 0,
+      "Hits@10": 0
+    },
+    "DistMult": {
+      "Modèle": "DistMult",
+      "MRR": 0,
+      "Hits@1": 0,
+      "Hits@3": 0,
+      "Hits@10": 0
+    }
+  },
+  "size_sensitivity": {
+    "20k": {
+      "Modèle": "TransE 20k",
+      "MRR": 0,
+      "Hits@1": 0,
+      "Hits@3": 0,
+      "Hits@10": 0
+    },
+    "50k": {
+      "Modèle": "TransE 50k",
+      "MRR": 0,
+      "Hits@1": 0,
+      "Hits@3": 0,
+      "Hits@10": 0
+    },
+    "full": {
+      "Modèle": "TransE Full",
+      "MRR": 0,
+      "Hits@1": 0,
+      "Hits@3": 0,
+      "Hits@10": 0
+    }
+  },
+  "kb_stats": {
+    "triplets_total": 150400,
+    "relations_retenues": 184,
+    "seuil_filtre": 250
+  }
+}

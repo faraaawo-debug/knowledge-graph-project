@@ -1,0 +1,34 @@
+# Environnement Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+
+# Fichiers trop lourds pour GitHub (utilise Git LFS ou lien externe)
+expanded_kb.nt
+expanded_kb.ttl
+*.nt
+
+# Données générées (reproductibles via les scripts)
+crawler_output.jsonl
+20k_train.txt
+20k_valid.txt
+20k_test.txt
+50k_train.txt
+50k_valid.txt
+50k_test.txt
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.DS_Store
+.env
+
+# PyKEEN cache
+.pykeen/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb

@@ -1,0 +1,37 @@
+{
+  "Elon_Musk": [
+    "http://example.org/mykb/entity/Pew_Research_Center",
+    "http://example.org/mykb/entity/Miquelon",
+    "http://example.org/mykb/entity/the_Early_Middle_Ages",
+    "http://example.org/mykb/relation/deny",
+    "http://example.org/mykb/entity/November_15_2019"
+  ],
+  "Microsoft": [
+    "http://www.wikidata.org/entity/statement/Q38-f9f37ac8-46ea-6dad-549d-0ee0ea0bf344",
+    "http://www.wikidata.org/entity/Q153312",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Levchin.jpg",
+    "http://www.wikidata.org/entity/statement/Q483203-A3BDE91A-D226-49C6-9987-66F634A7BEFE",
+    "https://www.london.gov.uk/"
+  ],
+  "Google": [
+    "https://www.voxmedia.com/",
+    "https://aol.com/",
+    "https://kingcounty.gov/en/dept/metro",
+    "https://www.oregon.gov/",
+    "https://www.a2gov.org/"
+  ],
+  "France": [
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Broadcom%20logo%20%282016-present%29.svg",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/TSMC%20wordmark.svg",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/House%20of%20Lords%20of%20the%20United%20Kingdom%202018.svg",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/East-West%20Center%20logo.png",
+    "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20der%20Schweizerischen%20Eidgenossenschaft.svg"
+  ],
+  "Barack_Obama": [
+    "http://www.wikidata.org/entity/statement/Q1397-35b8fd2c-426f-761c-6da4-9bbc9e2ceba9",
+    "http://www.wikidata.org/entity/statement/Q1370-6785f77f-44fc-3540-cb2b-ca13299937bc",
+    "http://www.wikidata.org/entity/statement/q262-aa622481-438f-099e-29da-e421346ea001",
+    "http://www.wikidata.org/entity/statement/Q724-329611c7-41b1-7cec-b163-2a55b66f74e4",
+    "http://www.wikidata.org/entity/statement/q1033-f41aada5-4c3d-cf24-b9b6-02f733c70bf1"
+  ]
+}

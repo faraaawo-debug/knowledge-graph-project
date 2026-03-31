@@ -1,0 +1,19 @@
+{
+  "total_triples": 242571,
+  "total_entities": 198173,
+  "total_relations": 4529,
+  "aligned_entities": 2595,
+  "high_conf_entities": 2032,
+  "top_predicates": {
+    "announce": 261,
+    "was": 117,
+    "is": 115,
+    "include": 100,
+    "are": 89,
+    "report": 82,
+    "say": 81,
+    "file": 81,
+    "become": 76,
+    "begin": 63
+  }
+}
