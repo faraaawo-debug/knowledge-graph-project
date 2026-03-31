@@ -98,7 +98,7 @@ cd ../..
 ```
 Outputs: `train.txt`, `valid.txt`, `test.txt`, `evaluation_results.csv`, `tsne_clusters.png`
 
-⚠️ Training runs on CPU and may take **4–6 hours**.
+⚠️ Training runs on CPU and may take **2–4 hours**.
 
 ---
 
