@@ -2,7 +2,7 @@
 
 
 **Authors : Faraa Awoyemi & Lilia Benabdallah**
-*ESILV, Generative AI & AI Agents, 2025/2026*
+*ESILV, Generative AI & AI Agents, 2026*
  
 ---
 
