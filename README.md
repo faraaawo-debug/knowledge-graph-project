@@ -3,12 +3,25 @@
 
 **Authors : Faraa Awoyemi & Lilia Benabdallah**
 *ESILV, Generative AI & AI Agents, 2026*
- 
----
 
+
+---
+## Project Overview
 End-to-end pipeline built on Wikipedia data:
 **Web Crawling → NER → RDF Knowledge Base → Alignment → KGE → RAG**
 
+
+This project builds a complete Knowledge Graph pipeline from scratch, starting from raw Wikipedia data and ending with a question-answering chatbot powered by a local LLM.
+
+The pipeline consists of four stages:
+
+1. **Web Crawling & NER (Lab 1):** We crawled 8 Wikipedia pages on AI-related topics and used spaCy to extract named entities (persons, organizations, locations, dates) and relations between them.
+
+2. **Knowledge Base Construction & Alignment (Lab 2):** We built an RDF knowledge graph from the extracted data, aligned our entities with Wikidata using the `owl:sameAs` property, and expanded the graph using SPARQL queries on Wikidata, reaching over 242,000 triples.
+
+3. **Reasoning & Knowledge Graph Embeddings (Lab 3):** We applied SWRL rules using OWLReady2 to infer new facts from the ontology, and trained two KGE models (TransE and DistMult) using PyKEEN to learn vector representations of entities and relations, enabling link prediction.
+
+4. **RAG over RDF/SPARQL (Lab 4):** We built a Retrieval-Augmented Generation pipeline that takes a natural language question, queries the knowledge base using SPARQL, and returns a grounded answer using a local LLM (llama3.2:1b via Ollama) — contrasting with a baseline LLM that answers from memory alone.
 ---
 
 ## Hardware Requirements
